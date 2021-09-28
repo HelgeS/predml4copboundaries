@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+python solver_logparser.py logs/bounded_best_median_1800_o1_sso
+python solver_logparser.py logs/bounded_best_median_1800_o1_sunnycp
+python solver_logparser.py logs/bounded_random_median_1800_o1_sso
+python solver_logparser.py logs/bounded_random_median_1800_o1_sunnycp
+python solver_logparser.py logs/unbounded_best_1800_sso
+python solver_logparser.py logs/unbounded_best_1800_sunnycp
+python solver_logparser.py logs/unbounded_random_1800_sso
+python solver_logparser.py logs/unbounded_random_1800_sunnycp

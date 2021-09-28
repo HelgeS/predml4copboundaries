@@ -1,0 +1,14 @@
+tqdm
+numpy
+scipy
+keras~=2.3.0
+statsmodels
+tensorflow<2.0
+scikit-learn
+pandas
+matplotlib
+seaborn
+xgboost
+#pymzn
+jinja2
+-e git+https://github.com/HelgeS/pymzn#egg=pymzn

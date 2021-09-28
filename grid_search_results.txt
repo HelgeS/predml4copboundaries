@@ -1,0 +1,91 @@
+Best mrcpsp: {'hidden_nodes': 16, 'hidden_layers': 2, 'lr': 1e-05}
+Best rcpsp:
+
+
+------- MRCPSP -------
+Best parameters set found on training set:
+
+{'hidden_nodes': 16, 'hidden_layers': 2, 'lr': 1e-05}
+
+Grid scores on training set:
+
+77.948 (+/-74.357) for {'hidden_nodes': 16, 'hidden_layers': 2, 'lr': 0.1}
+96.973 (+/-140.259) for {'hidden_nodes': 16, 'hidden_layers': 2, 'lr': 0.01}
+320.004 (+/-194.532) for {'hidden_nodes': 16, 'hidden_layers': 2, 'lr': 0.001}
+3046.520 (+/-1493.152) for {'hidden_nodes': 16, 'hidden_layers': 2, 'lr': 0.0001}
+3324.328 (+/-1950.741) for {'hidden_nodes': 16, 'hidden_layers': 2, 'lr': 1e-05}
+92.223 (+/-71.407) for {'hidden_nodes': 32, 'hidden_layers': 2, 'lr': 0.1}
+101.639 (+/-138.260) for {'hidden_nodes': 32, 'hidden_layers': 2, 'lr': 0.01}
+175.068 (+/-70.398) for {'hidden_nodes': 32, 'hidden_layers': 2, 'lr': 0.001}
+2807.701 (+/-2399.569) for {'hidden_nodes': 32, 'hidden_layers': 2, 'lr': 0.0001}
+3152.944 (+/-1829.720) for {'hidden_nodes': 32, 'hidden_layers': 2, 'lr': 1e-05}
+99.230 (+/-118.499) for {'hidden_nodes': 64, 'hidden_layers': 2, 'lr': 0.1}
+83.429 (+/-133.433) for {'hidden_nodes': 64, 'hidden_layers': 2, 'lr': 0.01}
+97.669 (+/-51.911) for {'hidden_nodes': 64, 'hidden_layers': 2, 'lr': 0.001}
+2263.027 (+/-2243.539) for {'hidden_nodes': 64, 'hidden_layers': 2, 'lr': 0.0001}
+3144.827 (+/-2034.227) for {'hidden_nodes': 64, 'hidden_layers': 2, 'lr': 1e-05}
+911.300 (+/-1900.511) for {'hidden_nodes': 128, 'hidden_layers': 2, 'lr': 0.1}
+75.544 (+/-97.147) for {'hidden_nodes': 128, 'hidden_layers': 2, 'lr': 0.01}
+53.358 (+/-46.876) for {'hidden_nodes': 128, 'hidden_layers': 2, 'lr': 0.001}
+926.177 (+/-992.624) for {'hidden_nodes': 128, 'hidden_layers': 2, 'lr': 0.0001}
+3063.940 (+/-1735.518) for {'hidden_nodes': 128, 'hidden_layers': 2, 'lr': 1e-05}
+114.087 (+/-129.801) for {'hidden_nodes': 16, 'hidden_layers': 3, 'lr': 0.1}
+79.553 (+/-139.402) for {'hidden_nodes': 16, 'hidden_layers': 3, 'lr': 0.01}
+156.855 (+/-86.333) for {'hidden_nodes': 16, 'hidden_layers': 3, 'lr': 0.001}
+2865.756 (+/-1847.757) for {'hidden_nodes': 16, 'hidden_layers': 3, 'lr': 0.0001}
+3277.308 (+/-2297.722) for {'hidden_nodes': 16, 'hidden_layers': 3, 'lr': 1e-05}
+80.229 (+/-67.710) for {'hidden_nodes': 32, 'hidden_layers': 3, 'lr': 0.1}
+73.286 (+/-155.948) for {'hidden_nodes': 32, 'hidden_layers': 3, 'lr': 0.01}
+65.179 (+/-34.825) for {'hidden_nodes': 32, 'hidden_layers': 3, 'lr': 0.001}
+2445.435 (+/-2248.458) for {'hidden_nodes': 32, 'hidden_layers': 3, 'lr': 0.0001}
+3176.333 (+/-1703.435) for {'hidden_nodes': 32, 'hidden_layers': 3, 'lr': 1e-05}
+231.897 (+/-572.639) for {'hidden_nodes': 64, 'hidden_layers': 3, 'lr': 0.1}
+46.172 (+/-32.484) for {'hidden_nodes': 64, 'hidden_layers': 3, 'lr': 0.01}
+44.781 (+/-46.136) for {'hidden_nodes': 64, 'hidden_layers': 3, 'lr': 0.001}
+1042.579 (+/-1729.861) for {'hidden_nodes': 64, 'hidden_layers': 3, 'lr': 0.0001}
+2805.973 (+/-1882.912) for {'hidden_nodes': 64, 'hidden_layers': 3, 'lr': 1e-05}
+254.390 (+/-642.251) for {'hidden_nodes': 128, 'hidden_layers': 3, 'lr': 0.1}
+88.447 (+/-91.540) for {'hidden_nodes': 128, 'hidden_layers': 3, 'lr': 0.01}
+45.578 (+/-87.437) for {'hidden_nodes': 128, 'hidden_layers': 3, 'lr': 0.001}
+135.129 (+/-202.172) for {'hidden_nodes': 128, 'hidden_layers': 3, 'lr': 0.0001}
+2663.696 (+/-2169.647) for {'hidden_nodes': 128, 'hidden_layers': 3, 'lr': 1e-05}
+109.849 (+/-74.963) for {'hidden_nodes': 16, 'hidden_layers': 5, 'lr': 0.1}
+76.207 (+/-165.764) for {'hidden_nodes': 16, 'hidden_layers': 5, 'lr': 0.01}
+72.694 (+/-86.533) for {'hidden_nodes': 16, 'hidden_layers': 5, 'lr': 0.001}
+2611.838 (+/-1983.909) for {'hidden_nodes': 16, 'hidden_layers': 5, 'lr': 0.0001}
+3310.089 (+/-1826.400) for {'hidden_nodes': 16, 'hidden_layers': 5, 'lr': 1e-05}
+113.983 (+/-149.240) for {'hidden_nodes': 32, 'hidden_layers': 5, 'lr': 0.1}
+38.320 (+/-45.558) for {'hidden_nodes': 32, 'hidden_layers': 5, 'lr': 0.01}
+43.780 (+/-57.625) for {'hidden_nodes': 32, 'hidden_layers': 5, 'lr': 0.001}
+1109.918 (+/-1099.325) for {'hidden_nodes': 32, 'hidden_layers': 5, 'lr': 0.0001}
+3276.042 (+/-1861.164) for {'hidden_nodes': 32, 'hidden_layers': 5, 'lr': 1e-05}
+231.755 (+/-572.394) for {'hidden_nodes': 64, 'hidden_layers': 5, 'lr': 0.1}
+44.606 (+/-58.542) for {'hidden_nodes': 64, 'hidden_layers': 5, 'lr': 0.01}
+61.558 (+/-147.867) for {'hidden_nodes': 64, 'hidden_layers': 5, 'lr': 0.001}
+96.693 (+/-133.052) for {'hidden_nodes': 64, 'hidden_layers': 5, 'lr': 0.0001}
+2903.794 (+/-2716.588) for {'hidden_nodes': 64, 'hidden_layers': 5, 'lr': 1e-05}
+337.243 (+/-779.710) for {'hidden_nodes': 128, 'hidden_layers': 5, 'lr': 0.1}
+38.597 (+/-73.375) for {'hidden_nodes': 128, 'hidden_layers': 5, 'lr': 0.01}
+49.497 (+/-113.805) for {'hidden_nodes': 128, 'hidden_layers': 5, 'lr': 0.001}
+99.188 (+/-211.318) for {'hidden_nodes': 128, 'hidden_layers': 5, 'lr': 0.0001}
+2136.830 (+/-1621.223) for {'hidden_nodes': 128, 'hidden_layers': 5, 'lr': 1e-05}
+342.640 (+/-531.265) for {'hidden_nodes': 16, 'hidden_layers': 10, 'lr': 0.1}
+32.985 (+/-54.115) for {'hidden_nodes': 16, 'hidden_layers': 10, 'lr': 0.01}
+43.104 (+/-57.439) for {'hidden_nodes': 16, 'hidden_layers': 10, 'lr': 0.001}
+2548.396 (+/-2557.346) for {'hidden_nodes': 16, 'hidden_layers': 10, 'lr': 0.0001}
+3176.216 (+/-2067.058) for {'hidden_nodes': 16, 'hidden_layers': 10, 'lr': 1e-05}
+256.525 (+/-629.605) for {'hidden_nodes': 32, 'hidden_layers': 10, 'lr': 0.1}
+60.096 (+/-94.600) for {'hidden_nodes': 32, 'hidden_layers': 10, 'lr': 0.01}
+57.397 (+/-143.590) for {'hidden_nodes': 32, 'hidden_layers': 10, 'lr': 0.001}
+298.868 (+/-866.049) for {'hidden_nodes': 32, 'hidden_layers': 10, 'lr': 0.0001}
+2950.424 (+/-1965.756) for {'hidden_nodes': 32, 'hidden_layers': 10, 'lr': 1e-05}
+328.620 (+/-688.567) for {'hidden_nodes': 64, 'hidden_layers': 10, 'lr': 0.1}
+43.318 (+/-72.429) for {'hidden_nodes': 64, 'hidden_layers': 10, 'lr': 0.01}
+65.138 (+/-162.311) for {'hidden_nodes': 64, 'hidden_layers': 10, 'lr': 0.001}
+120.964 (+/-282.850) for {'hidden_nodes': 64, 'hidden_layers': 10, 'lr': 0.0001}
+2449.523 (+/-2058.736) for {'hidden_nodes': 64, 'hidden_layers': 10, 'lr': 1e-05}
+nan (+/-nan) for {'hidden_nodes': 128, 'hidden_layers': 10, 'lr': 0.1}
+51.176 (+/-57.349) for {'hidden_nodes': 128, 'hidden_layers': 10, 'lr': 0.01}
+60.575 (+/-146.865) for {'hidden_nodes': 128, 'hidden_layers': 10, 'lr': 0.001}
+112.093 (+/-301.232) for {'hidden_nodes': 128, 'hidden_layers': 10, 'lr': 0.0001}
+1478.994 (+/-865.872) for {'hidden_nodes': 128, 'hidden_layers': 10, 'lr': 1e-05}
